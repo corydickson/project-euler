@@ -1,0 +1,10 @@
+/Users/cory.dickson/GitHub/project-euler/solutions/346/target/debug/deps/num_bigint-805e4d74f2e5d428.rmeta: /Users/cory.dickson/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/lib.rs /Users/cory.dickson/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/macros.rs /Users/cory.dickson/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/bigint.rs /Users/cory.dickson/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/biguint.rs /Users/cory.dickson/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/algorithms.rs /Users/cory.dickson/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/monty.rs
+
+/Users/cory.dickson/GitHub/project-euler/solutions/346/target/debug/deps/num_bigint-805e4d74f2e5d428.d: /Users/cory.dickson/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/lib.rs /Users/cory.dickson/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/macros.rs /Users/cory.dickson/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/bigint.rs /Users/cory.dickson/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/biguint.rs /Users/cory.dickson/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/algorithms.rs /Users/cory.dickson/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/monty.rs
+
+/Users/cory.dickson/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/lib.rs:
+/Users/cory.dickson/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/macros.rs:
+/Users/cory.dickson/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/bigint.rs:
+/Users/cory.dickson/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/biguint.rs:
+/Users/cory.dickson/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/algorithms.rs:
+/Users/cory.dickson/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/monty.rs:
